@@ -95,26 +95,6 @@
 
 <hr style="border: 1px solid #1a1a1a;" />
 
-## 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=samuelindra123&show_icons=true&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true" height="160" alt="Samuel's GitHub Stats" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelindra123&layout=compact&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=true" height="160" alt="Samuel's Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelindra123&background=0a0a0a&fire=00ff00&ring=00ff00&currStreakLabel=00ff00&sideNums=ffffff&sideLabels=a0a0a0&dates=808080&hide_border=true" alt="Samuel's GitHub Streak" />
-</div>
-
-<hr style="border: 1px solid #1a1a1a;" />
 
 ## 🤝 Connect with Me
 
@@ -138,6 +118,4 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/normal-badge.png?key=samuelindra123&style=flat-square&color=00ff00&label=Profile+Views" alt="Profile Views Counter" />
-</div>
+
